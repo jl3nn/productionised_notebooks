@@ -1,0 +1,8 @@
+PreProcessing:
+  - TitanicPreprocessor
+
+Training:
+  - TitanicModelTrainer
+
+Model:
+  - model.pkl
